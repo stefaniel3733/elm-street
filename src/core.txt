@@ -1,2 +1,3 @@
 :deciduous_tree: Crossing the road between Haskell and Elm
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
