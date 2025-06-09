@@ -1,2 +1,3 @@
 :deciduous_tree: Crossing the road between Haskell and Elm
 # drop an unused branch
+# match the style used in the rest of the module
